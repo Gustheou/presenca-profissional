@@ -1,7 +1,7 @@
 # 🎓 Lista de Presença - Workshop GitHub
 
 **Workshop:** GitHub para Presença Profissional
-**Atualizado em:** 07/11/2025 às 17:01
+**Atualizado em:** 07/11/2025 às 17:14
 
 **Total de participantes:** 1
 
